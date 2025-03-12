@@ -1,5 +1,7 @@
 # Self-hosted AI starter kit
 
+## Cloned from original repo to normalize the networking configuration for the docker-compose file to be more compatible with Coolify
+
 **Self-hosted AI Starter Kit** is an open-source Docker Compose template designed to swiftly initialize a comprehensive local AI and low-code development environment.
 
 ![n8n.io - Screenshot](https://raw.githubusercontent.com/n8n-io/self-hosted-ai-starter-kit/main/assets/n8n-demo.gif)
